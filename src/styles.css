@@ -1,4 +1,10 @@
+/*LOADING*/
+svg path,
+svg rect{
+  fill: black;
+}
 
+/*ANIMACION*/
 .animated {
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
