@@ -18,4 +18,4 @@ spec:
       - name: demo
         image: marcosalarcon/app-angular:v1
         ports:
-        - containerPort: 8080
+        - containerPort: 80
